@@ -1,0 +1,28 @@
+_repo: The-Fathers-of-ConfederationA-Chronicle-of-the-Birth-of-the-Dominion_29972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colquhoun, A. H. U. (Arthur Hugh Urquhart)
+    alias: Colquhoun, Arthur Hugh Urquhart
+    birthdate: 1861
+    deathdate: 1936
+    gutenberg_agent_id: '34279'
+    url: http://www.gutenberg.org/2009/agents/34279
+description: ''
+gutenberg_issued: '2009-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29972'
+  lccn: '16021426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- 1841-1867'
+title: 'The Fathers of Confederation: A Chronicle of the Birth of the Dominion'
+url: http://www.gutenberg.org/ebooks/29972
