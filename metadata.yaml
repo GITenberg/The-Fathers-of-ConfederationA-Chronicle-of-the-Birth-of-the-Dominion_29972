@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34279'
     url: http://www.gutenberg.org/2009/agents/34279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29972#The-Fathers-of-ConfederationA-Chronicle-of-the-Birth-of-the-Dominion
 gutenberg_issued: '2009-09-13'
 gutenberg_type: Text
 identifiers:
